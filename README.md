@@ -1,5 +1,6 @@
-## It trends
+# It trends
 Brief IT trends analysis based on StackOverflow surveys of years 2014-2020.
+
 
 ### How to use
 Just download _IT_trends.ipyb_ open it in jupyter notebook and run.
