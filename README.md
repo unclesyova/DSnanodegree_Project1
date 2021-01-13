@@ -1,5 +1,5 @@
 # IT trends
-Brief IT trends analysis, including educational levels of people working in the field, salary changes and programming languages popularity.
+Brief IT trends analysis, including educational levels of people working in the field, salary changes and programming languages popularity.  
 The analysis is based on StackOverflow surveys of the years 2014-2020.
 
 
@@ -33,5 +33,5 @@ this function transforms the entries into lists of these values.
 This code is under APACHE LICENSE 2.0
 
 ### Author & Acknowledgements
-Author: Zeev Peisakhovitch (U+000A)
+Author: Zeev Peisakhovitch  
 All the data were taken from: https://insights.stackoverflow.com/survey
