@@ -14,7 +14,10 @@ The analysis is based on StackOverflow surveys of the years 2014-2020.
 * developer_survey_2020.zip - StackOverflow survey results from the year 2020.
 
 ### How to use
-Download all the datasets, unzip them, then download _IT_trends.ipyb_, open it in jupyter notebook and run.
+- download all the datasets
+- unzip them
+- download _IT_trends.ipyb_
+- open it in jupyter notebook and run.
 
 ### 3rd party libraries
 The project uses pandas, numpy, matplotlib and seaborn.
@@ -31,4 +34,4 @@ This code is under APACHE LICENSE 2.0
 
 ### Author & Acknowledgements
 Author: Zeev Peisakhovitch
-All the data were taken from: (https://insights.stackoverflow.com/survey)
+All the data were taken from: https://insights.stackoverflow.com/survey
