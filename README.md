@@ -33,5 +33,5 @@ this function transforms the entries into lists of these values.
 This code is under APACHE LICENSE 2.0
 
 ### Author & Acknowledgements
-Author: Zeev Peisakhovitch
+Author: Zeev Peisakhovitch (U+000A)
 All the data were taken from: https://insights.stackoverflow.com/survey
