@@ -2,6 +2,8 @@
 Brief IT trends analysis, including educational levels of people working in the field, salary changes and programming languages popularity.  
 The analysis is based on StackOverflow surveys of the years 2014-2020.
 
+### Motivation  
+The motivation for this project is to better understand the recent trends in IT industry.
 
 ### List of files
 * IT_trends.ipyb - The source code.
@@ -28,6 +30,9 @@ Following functions are implemented in the file:
 this function transforms the entries into lists of these values.
 * `count_values()` - returns a count of unique values, when entries of a series are lists of values.
 * `assemble_list_of_technologies()` - when given a list of dataframe columns - performs two previous functions and assemble the results into one series.
+
+### Summary of the results  
+Appropriate tables and graphs were built to answer each question of interest.
 
 ### License
 This code is under APACHE LICENSE 2.0
