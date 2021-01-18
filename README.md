@@ -3,7 +3,7 @@ Brief IT trends analysis, including educational levels of people working in the 
 The analysis is based on StackOverflow surveys of the years 2014-2020.
 
 ### Motivation  
-The motivation for this project is to better understand the recent trends in IT industry.
+The motivation for this project is - to better understand the recent trends in the IT industry.
 
 ### List of files
 * IT_trends.ipyb - The source code.
